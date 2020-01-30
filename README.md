@@ -1,5 +1,5 @@
 # buildsystem
-Build system for Audioniek's Development Toolchain
+Build system for engineerkhan15's Development Toolchain
 
 Instructions
 ------------
@@ -13,7 +13,7 @@ Instructions
 
 3. In directory X, open a terminal.
 
-4. Execute: "git clone https://github.com/Audioniek/buildsystem ." Note
+4. Execute: "git clone https://github.com/engineerkhan15/buildsystem ." Note
    the period at the end.
 
 5. The remaining repositories that are needed will be cloned automatically
